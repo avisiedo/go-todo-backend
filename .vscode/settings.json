@@ -1,0 +1,12 @@
+{
+    "git.mergeEditor": false,
+    "go.testEnvVars": {
+        "CONFIG_PATH": "${workspaceFolder}/configs"
+    },
+    "go.autocompleteUnimportedPackages": true,
+    "go.formatTool": "gofumpt",
+    "go.lintTool": "golangci-lint",
+    "go.coverageOptions": "showUncoveredCodeOnly",
+    "go.coverMode": "count",
+    "go.coverOnSave": true
+}

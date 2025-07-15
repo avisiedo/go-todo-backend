@@ -1,0 +1,16 @@
+.DS_Store
+.venv
+/bin
+/tools/bin
+
+/coverage.out
+/coverage.tmp.out
+
+/configs/config.yaml
+
+
+# Secrets
+/secrets
+.docker
+.podman
+.kube
