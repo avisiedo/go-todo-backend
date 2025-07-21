@@ -32,4 +32,3 @@ body:
       placeholder: add information about the feature and rationale it
     validations:
       required: true
-
